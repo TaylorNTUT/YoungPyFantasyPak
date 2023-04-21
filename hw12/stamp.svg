@@ -41,7 +41,7 @@
 
 
 	<rect x="50" y="50" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
-	<text x="51.9" y="54.9" style="font-size:4.5pt;" text-anchor="middle" dominant-baseline="central">福</text>
+	<text x="52.5" y="56.5" style="font-size:4.5pt;" text-anchor="middle" dominant-baseline="central">福</text>
 	<rect x="50" y="57.3805" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
 	<text x="51.9" y="62.2805" style="font-size:4.5pt;" text-anchor="middle" dominant-baseline="central">智</text>
 
@@ -50,8 +50,27 @@
 	<rect x="57.3805" y="57.3805" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
 	<text x="59.3805" y="62.2805" style="font-size:4.5pt;" fill="blue" text-anchor="middle" dominant-baseline="central">年</text>
 
-
 	
+  <rect x="50" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50.4" y="53.9" style="font-size:3pt;">褚</text>
+  <rect x="50" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50.4" y="58.733" style="font-size:3pt;">遂</text>
+  <rect x="50" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50.4" y="63.566" style="font-size:3pt;">良</text>
+	
+  <rect x="54.833" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="55.233" y="53.9" style="font-size:3pt;;" fill="blue">資</text>
+  <rect x="54.833" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="55.233" y="58.733" style="font-size:3pt;" fill="blue">工</text>
+  <rect x="54.833" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="55.233" y="63.566" style="font-size:3pt;" fill="blue">所</text>
+
+  <rect x="59.666" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="60.066" y="53.9" style="font-size:3pt;">北</text>
+  <rect x="59.666" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="60.066" y="58.733" style="font-size:3pt;">科</text>
+  <rect x="59.666" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="60.066" y="63.566" style="font-size:3pt;">大</text>
 	
 
 
