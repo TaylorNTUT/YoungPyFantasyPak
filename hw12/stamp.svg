@@ -41,7 +41,7 @@
 
 
 	<rect x="50" y="50" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
-	<text x="52.5" y="56.5" style="font-size:4.5pt;" text-anchor="middle" dominant-baseline="central">福</text>
+	<text x="52.5" y="52.5" style="font-size:4.5pt;" text-anchor="middle" dominant-baseline="central">福</text>
 	<rect x="50" y="57.3805" width="7.3805" height="7.3805" stroke="blue" stroke-width="0.1" fill="none"/>
 	<text x="51.9" y="62.2805" style="font-size:4.5pt;" text-anchor="middle" dominant-baseline="central">智</text>
 
